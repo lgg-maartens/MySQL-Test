@@ -25,7 +25,7 @@ namespace WebApplication1
     public void ConfigureServices(IServiceCollection services)
     {
       // Replace with your connection string.      
-      string connectionString = "Server=informatica.st-maartenscollege.nl;Port=3306;Database=fastfood;Uid=lgg;Pwd=Arv0Qes6OpxwGlCc;";
+      string connectionString = "Server=informatica.st-maartenscollege.nl;Port=3306;Database=fastfood;Uid=lgg;Pwd=;";
 
       // Replace with your server version and type.
       // Use 'MariaDbServerVersion' for MariaDB.
